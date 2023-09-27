@@ -88,3 +88,4 @@ public class GT4500 implements SpaceShip {
   }
 
 }
+//Komment merge conflict előállításához
